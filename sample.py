@@ -15,6 +15,6 @@ class Rectangle:
 
 
 plot = Rectangle(40, 30)
-
+plot.area(2,4)
 
         
